@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------
+Dist Name
+--------------------------------------------------------------------------------
+1: Dist_rubix_840g9 is disk name.
+2: 90GB is available to use.
+
+---------------------------------------------------------------------------------
+Directory Structure
+--------------------------------------------------------------------------------
+1. mnt/1_flow_setup- is used for setup env and define flow.
+2. mnt/2_lib- is used to store common script.
+3. mnt/3_script- is used to develop automation script.
+4. mnt/4_experiment- is used to perform experiments.
